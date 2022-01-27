@@ -1,0 +1,47 @@
+1.Phân biệt và tên gọi các thành phần
+    những thành phần thường gặp trên giao diện website (có thể có hoặc không)
+        1.Header(đầu trang)
+        2.Navigation(điều hướng)
+        3.Breadcrumb
+        4.Sizebar
+        5.Slider 
+        6.Banner(ảnh giới thiệu, quảng cáo,...)
+        7.Content(nội dung chính)
+        8.Footer(chân trang)
+
+2. Phân tích dự án
+    - Các thành phần
+        1.Header
+        2.Slider
+        3.Content
+            1.About
+            2.Tour
+            3.Contact
+            4.Image
+        4.Footer
+
+3. Tạo project base
+    cần lưu ý
+        1.Vị trí
+        2.Kích thước (with, height)
+        3.Màu sắc
+        4.Kiểu dáng(kiểu chữ, hình thái)
+    thứ tự:
+        1.Từ ngoài vào trong
+        2.Từ trên xuống dưới
+        3.Tổng quan đến chi tiết
+
+    font-style: dạng chữ(italic: nghiêng,...)
+    opacity: độ làm mờ 
+    text-align: căn lề văn bản
+    border-radius: bo góc cho ảnh
+    float: định vị và định dạng nội dung, làm cho element nổi lên phía trên
+    clear: khắc phục element nổi lên do float tạo ra
+
+* Reponsive
+    PC: >=1024px
+    Tablet: >=740px && <1024px
+    Mobile: <740px
+
+* Những CSS ưu tiên hơn đưa xuống dưới
+    
